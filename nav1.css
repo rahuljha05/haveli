@@ -1,0 +1,27 @@
+.navtop{
+	background:#092e54;
+	letter-spacing: 1px;
+}
+ p{
+	margin-top: 6px;
+	margin-bottom: 6px;
+}
+   li a{
+	text-decoration: none;
+	color: #fff;
+	text-decoration: none;
+}
+ul{
+	margin-top: 43px;
+	margin-bottom: 6px;
+}
+.slider{
+	margin-top: 10px;
+}
+.log{
+	width: 100px;
+	opacity: 1;
+}
+a:hover{
+	color: #ce0404;
+}

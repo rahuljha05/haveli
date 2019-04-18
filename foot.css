@@ -1,0 +1,75 @@
+
+#footer{
+	margin: auto;
+	width: 100%;
+	height: auto;
+	background-color: #092e54;
+}
+ footer h3{
+	color: #fff;
+	font-size: 20px;
+}
+footer hr{
+     border:2px solid #ff5722;
+     margin: 0px 0px 20px 0px;
+     width: 80px;
+}
+footer ul{
+	margin: 0px;
+	padding: 0px;
+
+}
+footer ul li{
+	display: inline-block;
+	margin: 0px;
+	height: auto;
+	width: 36px;
+}
+footer ul li a{
+	display: block;
+	font-size: 20px;
+	color: #fff;
+}
+footer ul li{
+	color: white;
+}
+footer p{
+	color: #fff;
+}
+footer p >i{
+	font-size: 25px;
+}
+.right-footer{
+	height:271px;
+	width: 100%;
+	margin-top: 20px;
+	background-color:#ffffffa6;
+}
+.arrow{
+	float: right;
+ }
+ .copy{
+ 	background-color:#7d7d7d40;
+ 	margin: auto;
+ 	height: auto;
+ 	width: 100%;
+ }
+ .copy p{
+ 	color: black;
+ 	font-width:10px;
+ }
+ #subject{
+ width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  height: auto;
+  height: 123px;
+ }
+ .copy {
+  float: left;
+  width: 100%;
+  margin: 0px;
+  height: auto;
+}
+

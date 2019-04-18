@@ -1,0 +1,27 @@
+img{
+	height: 10px;
+	width: 100%;
+	opacity: .4;
+	transition: transform .5s;
+}
+h3{
+	margin-top: 10px;
+	margin-bottom: 0px;
+	
+}
+.imgdiv{
+	background-color:#9e9b9d;
+	height: 50px;
+	width: 100%;
+	border-radius: 5px;
+	border:1px solid white;
+}
+img:hover{
+	opacity: 1;
+	   transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+hr{
+	margin-top: 0px;
+	border:2px solid #a5310d;
+	width: 210px;
+}
